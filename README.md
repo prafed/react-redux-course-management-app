@@ -1,9 +1,13 @@
-## Draw Nine - React Game
+## Course Management App using React & Redux
 
-For learning purposes...
+Playground using:
+
+- redux
+- thunks
+- ES6
 
 Install npm: `npm i`
 
-Run: `npm start` 
+Run: `npm start`
 
-This will start your default browser in `http://localhost:8080/`
+This will start your default browser in `http://localhost:3000/`
